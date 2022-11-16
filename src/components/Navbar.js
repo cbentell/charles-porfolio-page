@@ -4,7 +4,9 @@ import React from "react";
 export default function Navbar() {
     return (
 
-        <>
+
+        
+       <>
             <div id="navbar">
                 <nav class="bg-white shadow">
                     <div class="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
