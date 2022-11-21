@@ -17,7 +17,7 @@ return (
 
               <details class="px-6 py-4">
                 <summary class="font-bold text-2xl text-gray-800">Yorner Liberia</summary>
-                <p>Focuses on bring the young entrepreneur to the spotlight</p>
+                <p>Focuses on bringing the young entrepreneur to the spotlight</p>
               </details>
 
               <details class="px-6 py-4">
